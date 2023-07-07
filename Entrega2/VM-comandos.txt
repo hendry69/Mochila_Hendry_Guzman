@@ -1,0 +1,7 @@
+El comando "df" es utilizado en sistemas Unix y Linux para mostrar información sobre el uso del espacio en disco. Al ejecutar el comando "df", se mostrará una tabla con detalles sobre el espacio total, el espacio utilizado y el espacio disponible en cada sistema de archivos montado en el sistema.
+
+El comando "top" es utilizado para monitorear los procesos en ejecución en el sistema. Al ejecutar el comando "top", se mostrará una lista en tiempo real de los procesos en ejecución, junto con información como el ID del proceso, el uso de la CPU, el uso de la memoria, entre otros.
+
+El comando "apt install cowsay" se utiliza en sistemas basados en Debian, como Ubuntu, para instalar el paquete "cowsay". Cowsay es un programa que genera una representación de una vaca (u otro animal) que muestra mensajes en forma de burbujas de diálogo. Es una herramienta divertida pero no esencial para el funcionamiento del sistema.
+
+El comando "cowsay 'Hola mundo'" es utilizado para invocar el programa cowsay y mostrar el mensaje "Hola mundo" en forma de burbuja de diálogo generada por la vaca (o el animal) en la terminal.
