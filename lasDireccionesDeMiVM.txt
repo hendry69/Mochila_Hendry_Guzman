@@ -1,0 +1,5 @@
+ip publica= 10.0.2.15/24
+ip priv= 127.0.0.1/08
+MAC add= 08:00:27:6f:4e:5f
+¿Es diferente a la IP pública y privada de nuestra máquina host?
+Si
